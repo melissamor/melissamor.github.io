@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Research
+subtitle: Summaries of past and present projects.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Looking around bent AGN
+You should check out my most recent paper! I'll find a way to link it here!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### How much gas is in the intragroup medium, anyways?
+Keep an eye out for my next paper! It'll be real great!
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Using VLASS to find even more bent AGN!
+Getting help from three fantastic undergrads to do this! I'm going to talk more about it eventually!
