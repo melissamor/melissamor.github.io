@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Melissa's Cozy Website
+title: Melissa's Cozy Little Website
 
 # Your name to show in the footer
-author: Melissa Elizabeth Morris
+author: mmorris@astro.wisc.edu
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -48,7 +48,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "mmorris@astro.wisc.edu"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
   github: melissamor
